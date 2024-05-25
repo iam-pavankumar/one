@@ -8,6 +8,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: brown; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
+        <h2> THANKS FOR THE JOINING THE CLASS </h2>
 	
 	
 	
